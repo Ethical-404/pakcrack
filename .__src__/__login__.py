@@ -28,7 +28,7 @@ def log():
         print ''
         print '\x1b[1;93m          TOOL USERNAME \x1b[1;96m:\x1b[1;97m ' + usr + ' \x1b[1;91m[wrong]\x1b[0m'
         sleep(1)
-        system('xdg-open https://github.com/htr-tech')
+        system('xdg-open https://github.com/ETHICAL-404')
         log()
 
 
@@ -38,7 +38,7 @@ def fog():
     print '\x1b[1;92mINPUT USERNAME & PASSWORD\x1b[0m'
     print '\x1b[1;96m-------------------------\x1b[0m'
     print ''
-    print '\x1b[1;93m          INPUT USERNAME \x1b[1;96m:\x1b[1;97m TAHMID RAYAT \x1b[1;92m[correct]\x1b[0m'
+    print '\x1b[1;93m          INPUT USERNAME \x1b[1;96m:\x1b[1;97m ARBAB MEMON \x1b[1;92m[correct]\x1b[0m'
     pwd = raw_input('\n\x1b[1;93m          INPUT PASSWORD \x1b[1;96m:\x1b[1;92m ')
     if pwd == haxpwd:
         dog()
@@ -49,7 +49,7 @@ def fog():
         print '\x1b[1;92mINPUT USERNAME & PASSWORD\x1b[0m'
         print '\x1b[1;96m-------------------------\x1b[0m'
         print ''
-        print '\x1b[1;93m          TOOL USERNAME \x1b[1;96m:\x1b[1;97m TAHMID RAYAT \x1b[1;92m[correct]\x1b[0m'
+        print '\x1b[1;93m          TOOL USERNAME \x1b[1;96m:\x1b[1;97m ARBAB MEMON \x1b[1;92m[correct]\x1b[0m'
         print '\n\x1b[1;93m          TOOL PASSWORD \x1b[1;96m:\x1b[1;97m ' + pwd + ' \x1b[1;91m[wrong]\x1b[0m'
         sleep(1)
         system('xdg-open https://linktr.ee/tahmid.rayat')
@@ -62,8 +62,8 @@ def dog():
     print '\x1b[1;92mINPUT USERNAME & PASSWORD\x1b[0m'
     print '\x1b[1;96m-------------------------\x1b[0m'
     print ''
-    print '\x1b[1;93m          TOOL USERNAME \x1b[1;96m:\x1b[1;97m TAHMID RAYAT \x1b[1;92m[correct]\x1b[0m'
-    print '\n\x1b[1;93m          TOOL PASSWORD \x1b[1;96m:\x1b[1;97m HTR-TECH \x1b[1;92m[correct]\x1b[0m'
+    print '\x1b[1;93m          TOOL USERNAME \x1b[1;96m:\x1b[1;97m ARBAB MEMON \x1b[1;92m[correct]\x1b[0m'
+    print '\n\x1b[1;93m          TOOL PASSWORD \x1b[1;96m:\x1b[1;97m ETHICAL-404 \x1b[1;92m[correct]\x1b[0m'
     print ''
 
 
