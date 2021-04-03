@@ -6,19 +6,19 @@
 
 import os
 from os import system
-if not os.path.isfile('.__main__.py'):
+if not os.path.isfile('__main__.py'):
     print '\n\tSome Required Defs not Found !! CLONE CORRECTLY !\n'
     os.sys.exit()
-if not os.path.isfile('.__src__/.__file__.py'):
+if not os.path.isfile('.__src__/__file__.py'):
     print '\n\tSome Required Defs not Found !! CLONE CORRECTLY !\n'
     os.sys.exit()
-if not os.path.isfile('.__src__/.__logo__.py'):
+if not os.path.isfile('.__src__/__logo__.py'):
     print '\n\tSome Required Defs not Found !! CLONE CORRECTLY !\n'
     os.sys.exit()
-if not os.path.isfile('.__src__/.__login__.py'):
+if not os.path.isfile('.__src__/__login__.py'):
     print '\n\tSome Required Defs not Found !! CLONE CORRECTLY !\n'
     os.sys.exit()
-if not os.path.isfile('.__src__/.__init__.py'):
+if not os.path.isfile('.__src__/__init__.py'):
     print '\n\tSome Required Defs not Found !! CLONE CORRECTLY !\n'
     os.sys.exit()
 try:
