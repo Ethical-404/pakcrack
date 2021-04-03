@@ -1,7 +1,7 @@
-# Filenames : <tahm1d>
+# Filenames : <Ethical-404>
 # Python bytecode : 2.7
 # Time decompiled : Thu Sep 10 23:29:38 2020
-# Selector <module> in line 4 file <tahm1d>
+# Selector <module> in line 4 file <923003023263>
 # Timestamp in code: 2020-09-02 17:33:14
 
 import os, sys, time
