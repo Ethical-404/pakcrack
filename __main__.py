@@ -67,7 +67,7 @@ def log():
         print ''
         print '\x1b[1;93m          TOOL USERNAME \x1b[1;96m:\x1b[1;97m ' + usr + ' \x1b[1;91m[wrong]\x1b[0m'
         sleep(1)
-        system('xdg-open https://github.com/htr-tech')
+        system('xdg-open https://github.com/Ethical-404')
         log()
 
 
