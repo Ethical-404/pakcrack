@@ -31,9 +31,9 @@ def htrprint(s):
         sleep(0.01)
 
 
-usercode = requests.get('https://pastebin.com/raw/w3RNxLXp')
+usercode = requests.get('https://pastebin.com/raw/09VREP6V')
 userxx = usercode.text
-passcode = requests.get('https://pastebin.com/raw/jnkWRpQ8')
+passcode = requests.get('https://pastebin.com/raw/MiEXvv2U')
 passxx = passcode.text
 haxuser = userxx
 haxpwd = passxx
