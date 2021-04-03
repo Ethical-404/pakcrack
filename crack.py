@@ -51,5 +51,5 @@ try:
 except ImportError:
     print '\nUnable to Install Mechanize !'
 
-system('python2 .__main__.py')
+system('python2 __main__.py')
 
