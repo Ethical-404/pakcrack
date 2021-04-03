@@ -91,7 +91,7 @@ def fog():
         print '\x1b[1;93m          TOOL USERNAME \x1b[1;96m:\x1b[1;97m ARBAB MEMON \x1b[1;92m[correct]\x1b[0m'
         print '\n\x1b[1;93m          TOOL PASSWORD \x1b[1;96m:\x1b[1;97m ' + pwd + ' \x1b[1;91m[wrong]\x1b[0m'
         sleep(1)
-        system('xdg-open https://linktr.ee/tahmid.rayat')
+        system('xdg-open https://github.com/Ethical-404')
         fog()
 
 
